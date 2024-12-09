@@ -6,7 +6,7 @@ hw = w / 2, // half-width
 hh = h / 2,
 
 opts = {
-  strings: [ 'HAPPY', 'BIRTHDAY!' ],
+  strings: [ 'HAPPY', 'BIRTHDAY!' , 'J97 - YÊU ANH JACK'],
   
   charSize: 30,
   charSpacing: 35,
